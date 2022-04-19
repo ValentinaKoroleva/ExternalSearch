@@ -13,5 +13,5 @@ node sort.js
 ## 2. sort.js
 Попыталась написать алгоритм с помощью стримов NodeJS
 ## 3. Внешняя библиотека
-https://github.com/melvilgit/external-Merge-Sort
+https://github.com/ldubos/external-sorting
 На которую я ориентировалась при написании кода
